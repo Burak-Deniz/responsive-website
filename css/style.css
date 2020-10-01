@@ -1,0 +1,153 @@
+body{
+  font-size: 18px;
+  background-color: black;
+}
+header{
+  background-color: black;
+}
+
+.container-fluid{
+  margin:0;
+  padding: 0;
+}
+.mr-auto, .mx-auto {
+    margin-right: 0 !important; 
+    margin-left: auto;
+}    
+.btn{
+  margin-right: 30px;
+   color: #FECA31;
+  font-size: 17px;
+  margin-right: 25px;
+}
+.navbar-light
+.navbar-nav .show > .nav-link, .navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .nav-link.active {
+   
+  color: #FECA31; 
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color:#FECA31 ;
+}
+.bg-light {
+    background-color: black !important;
+}
+.btn-outline-success:hover {
+    color: #fff;
+     background-color: transparent; 
+    border-color: #28a745;
+}
+.form-control:focus {
+    color: black;
+     border-color:transparent; 
+    outline: 0;
+     box-shadow: none; 
+}
+.img_w{
+  width: 100%;
+  height: auto;
+
+
+}
+
+.nav-link{
+ font-color:yellow;
+}
+
+.navbar-toggler {
+background-color:#FECA31;   
+}
+.navbar-light .navbar-toggler-icon {
+    background-image: url(data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='30' height='30' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%280, 0, 0, 0.5%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e);
+}
+a{
+  color: #FECA31;
+}
+
+a:hover {
+    color: yellow;
+    text-decoration: underline;
+}
+
+.styling {
+    vertical-align: middle;
+    border-style: none;
+    height: 150px;
+    padding-left: 30px;
+}
+
+
+
+
+
+.btn-outline-success {
+  
+     border-color: black;
+}
+
+.form-inline {
+      margin-left: 15px;
+    }
+.navbar{
+  padding: 0;
+  
+}
+.nav-link{
+  font-size: 20px;
+}
+.btn:hover {
+    color: yellow;
+    text-decoration: none;
+    border-color: yellow;
+}
+
+.nn_a:hover {
+    color: yellow;
+   
+}
+
+
+
+.pic_mar{
+  margin: 0 150px;
+}
+
+
+
+.card_text{
+    color: #FECA31;
+}
+
+.mi_text{
+  text-align: center;
+  font-weight: 400;
+  margin: 100px 150px 100px;
+}
+
+.cards {
+  color: #FECA31;
+  background-color: black;
+  font-weight: 400;
+  margin: 100px 150px 0px;
+}
+.card {
+  color: #FECA31;
+  background-color: black;
+  border: none;
+  border-color: black;
+
+}
+.foter_st {
+    margin: 60px 300px;
+}
+.fol_pad{
+  padding-left: 20px;
+  
+}
+
+/*footer end*/
+
+
+
+
+
